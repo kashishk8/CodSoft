@@ -1,4 +1,4 @@
-package codsoft_project;
+
 import java.util.Scanner;
 
 		class BankAccount {
