@@ -44,12 +44,12 @@ public class Main{
         //Calculating Grades
         String Grade = g.grade(avgp);
 
-        //Displaying all the Data
+      
         System.out.println("Total marks obtained :- " + tmarks);
         System.out.println("Percentage obtained :- " + avgp+"%");
         System.out.println("Grade obtained :- " + Grade);
 
         sc.close();
-        //Lets test the code
+       
     }
 }
